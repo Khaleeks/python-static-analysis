@@ -17,5 +17,5 @@ def divide(a: int, b: int) -> float:
 
 # Function calls
 print(add(3, 5))  # Expected output: 8
-print(greet("Alice"))  # Expected output: "Hello, Alice!"
+print(greet("alice"))  # Expected output: "Hello, Alice!"
 print(divide(10, 2))  # Expected output: 5.0
